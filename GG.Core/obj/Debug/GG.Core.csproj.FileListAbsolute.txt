@@ -1,0 +1,8 @@
+C:\Users\Yılmaz Dere\source\repos\C#\GG\GG.Core\bin\Debug\GG.Core.dll
+C:\Users\Yılmaz Dere\source\repos\C#\GG\GG.Core\bin\Debug\GG.Core.pdb
+C:\Users\Yılmaz Dere\source\repos\C#\GG\GG.Core\obj\Debug\GG.Core.dll
+C:\Users\Yılmaz Dere\source\repos\C#\GG\GG.Core\obj\Debug\GG.Core.pdb
+C:\Users\Yılmaz Dere\Desktop\GG\GG.Core\bin\Debug\GG.Core.dll
+C:\Users\Yılmaz Dere\Desktop\GG\GG.Core\bin\Debug\GG.Core.pdb
+C:\Users\Yılmaz Dere\Desktop\GG\GG.Core\obj\Debug\GG.Core.dll
+C:\Users\Yılmaz Dere\Desktop\GG\GG.Core\obj\Debug\GG.Core.pdb
